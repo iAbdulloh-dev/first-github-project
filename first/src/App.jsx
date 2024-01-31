@@ -1,9 +1,9 @@
-import React from 'react'
+import Valyuta from "./Valyuta/Valyuta"
 
 const App = () => {
   return (
     <div>
-      <h1>Hello World</h1>
+      <Valyuta/>
     </div>
   )
 }
