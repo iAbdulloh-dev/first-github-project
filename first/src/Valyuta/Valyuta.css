@@ -76,18 +76,17 @@ button:active {
     transition: box-shadow 0.2s ease-in;
 }
 
-.header {
+.header{
     width: 1536px;
     height: 737px;
     background: url(image/1330653.png) center center / cover;
 }
-
-* {
+*{
     margin: 0;
     padding: 0;
 }
 
-h1 {
+h1{
     font-size: 50px;
     color: rgb(61, 106, 255);
     position: absolute;
@@ -97,8 +96,7 @@ h1 {
     text-transform: uppercase;
     font-weight: 100;
 }
-
-select {
+select{
     width: 450px;
     height: 50px;
     border: 1px solid rgb(61, 106, 255);
@@ -113,14 +111,12 @@ select {
     padding: 0 25px;
     box-sizing: border-box;
 }
-
-option {
+option{
     font-size: 30px;
     color: rgb(61, 106, 255);
     background-color: rgb(23, 22, 22);
 }
-
-.hisob {
+.hisob{
     width: 450px;
     height: 50px;
     background: transparent;
@@ -135,8 +131,7 @@ option {
     padding: 25px;
     box-sizing: border-box;
 }
-
-.result {
+.result{
     width: 450px;
     height: 50px;
     background: transparent;
@@ -151,14 +146,12 @@ option {
     padding: 25px;
     box-sizing: border-box;
 }
-
-.hisob::placeholder {
+.hisob::placeholder{
     font-size: 30px;
     color: #c3b5b5;
     text-align: center;
 }
-
-.result::placeholder {
+.result::placeholder{
     font-size: 30px;
     color: #c3b5b5;
     text-align: center;
